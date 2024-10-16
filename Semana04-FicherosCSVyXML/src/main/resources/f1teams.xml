@@ -1,0 +1,182 @@
+<f1Teams>
+    <team>
+        <name>Red Bull Racing</name>
+        <nationality>Austria</nationality>
+        <drivers>
+            <driver>
+                <name>Max Verstappen</name>
+                <number>1</number>
+                <birthDate>1997-09-30</birthDate>
+                <nationality>Netherlands</nationality>
+            </driver>
+            <driver>
+                <name>Sergio Pérez</name>
+                <number>11</number>
+                <birthDate>1990-01-26</birthDate>
+                <nationality>Mexico</nationality>
+            </driver>
+        </drivers>
+    </team>
+    <team>
+        <name>Mercedes-AMG Petronas</name>
+        <nationality>Germany</nationality>
+        <drivers>
+            <driver>
+                <name>Lewis Hamilton</name>
+                <number>44</number>
+                <birthDate>1985-01-07</birthDate>
+                <nationality>United Kingdom</nationality>
+            </driver>
+            <driver>
+                <name>George Russell</name>
+                <number>63</number>
+                <birthDate>1998-02-15</birthDate>
+                <nationality>United Kingdom</nationality>
+            </driver>
+        </drivers>
+    </team>
+    <team>
+        <name>Ferrari</name>
+        <nationality>Italy</nationality>
+        <drivers>
+            <driver>
+                <name>Charles Leclerc</name>
+                <number>16</number>
+                <birthDate>1997-10-16</birthDate>
+                <nationality>Monaco</nationality>
+            </driver>
+            <driver>
+                <name>Carlos Sainz</name>
+                <number>55</number>
+                <birthDate>1994-09-01</birthDate>
+                <nationality>Spain</nationality>
+            </driver>
+        </drivers>
+    </team>
+    <team>
+        <name>McLaren</name>
+        <nationality>United Kingdom</nationality>
+        <drivers>
+            <driver>
+                <name>Lando Norris</name>
+                <number>4</number>
+                <birthDate>1999-11-13</birthDate>
+                <nationality>United Kingdom</nationality>
+            </driver>
+            <driver>
+                <name>Oscar Piastri</name>
+                <number>81</number>
+                <birthDate>2001-04-06</birthDate>
+                <nationality>Australia</nationality>
+            </driver>
+        </drivers>
+    </team>
+    <team>
+        <name>Aston Martin</name>
+        <nationality>United Kingdom</nationality>
+        <drivers>
+            <driver>
+                <name>Fernando Alonso</name>
+                <number>14</number>
+                <birthDate>1981-07-29</birthDate>
+                <nationality>Spain</nationality>
+            </driver>
+            <driver>
+                <name>Lance Stroll</name>
+                <number>18</number>
+                <birthDate>1998-10-29</birthDate>
+                <nationality>Canada</nationality>
+            </driver>
+        </drivers>
+    </team>
+    <team>
+        <name>Alpine</name>
+        <nationality>France</nationality>
+        <drivers>
+            <driver>
+                <name>Pierre Gasly</name>
+                <number>10</number>
+                <birthDate>1996-02-07</birthDate>
+                <nationality>France</nationality>
+            </driver>
+            <driver>
+                <name>Esteban Ocon</name>
+                <number>31</number>
+                <birthDate>1996-09-17</birthDate>
+                <nationality>France</nationality>
+            </driver>
+        </drivers>
+    </team>
+    <team>
+        <name>Williams</name>
+        <nationality>United Kingdom</nationality>
+        <drivers>
+            <driver>
+                <name>Alexander Albon</name>
+                <number>23</number>
+                <birthDate>1996-03-23</birthDate>
+                <nationality>Thailand</nationality>
+            </driver>
+            <driver>
+                <name>Logan Sargeant</name>
+                <number>2</number>
+                <birthDate>2000-12-31</birthDate>
+                <nationality>United States</nationality>
+            </driver>
+        </drivers>
+    </team>
+    <team>
+        <name>Alfa Romeo</name>
+        <nationality>Switzerland</nationality>
+        <drivers>
+            <driver>
+                <name>Valtteri Bottas</name>
+                <number>77</number>
+                <birthDate>1989-08-28</birthDate>
+                <nationality>Finland</nationality>
+            </driver>
+            <driver>
+                <name>Zhou Guanyu</name>
+                <number>24</number>
+                <birthDate>1999-05-30</birthDate>
+                <nationality>China</nationality>
+            </driver>
+        </drivers>
+    </team>
+    <team>
+        <name>Haas</name>
+        <nationality>United States</nationality>
+        <drivers>
+            <driver>
+                <name>Kevin Magnussen</name>
+                <number>20</number>
+                <birthDate>1992-10-05</birthDate>
+                <nationality>Denmark</nationality>
+            </driver>
+            <driver>
+                <name>Nico Hulkenberg</name>
+                <number>27</number>
+                <birthDate>1987-08-19</birthDate>
+                <nationality>Germany</nationality>
+            </driver>
+        </drivers>
+    </team>
+    <team>
+        <name>AlphaTauri</name>
+        <nationality>Italy</nationality>
+        <drivers>
+            <driver>
+                <name>Yuki Tsunoda</name>
+                <number>22</number>
+                <birthDate>2000-05-11</birthDate>
+                <nationality>Japan</nationality>
+            </driver>
+            <driver>
+                <name>Daniel Ricciardo</name>
+                <number>3</number>
+                <birthDate>1989-07-01</birthDate>
+                <nationality>Australia</nationality>
+            </driver>
+        </drivers>
+    </team>
+</f1Teams>
